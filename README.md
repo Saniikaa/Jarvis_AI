@@ -62,7 +62,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 ## 👨‍💻 Author
 Your Name  
-GitHub: [YourGitHubProfile](https://github.com/YourGitHubProfile)
+GitHub: [@Saniikaa](https://github.com/Saniikaa)
 
 ---
 ## 🙏 Acknowledgements
